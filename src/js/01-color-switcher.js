@@ -1,10 +1,10 @@
 
 
 const refs = {
-   bodyEl: document.querySelector('body'), 
+  bodyEl: document.querySelector('body'), 
   startBtnEl: document.querySelector('button[data-start]'),
   stopBtnEl: document.querySelector('button[data-stop]'),
-};
+}
 
 let generatedId = null;
 
